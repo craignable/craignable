@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=craignable)](https://github.com/LordDashMe/github-contribution-stats/)
 
 <!--
 **craignable/craignable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
